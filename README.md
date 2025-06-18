@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="banner.png" width="80%" height="50%" alt="Professional Banner"/>
+  <img src="banner.png" width="80%" height="30%" alt="Professional Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/DUAAPIRZADA22">Duaa Pirzada</a></h1>
